@@ -33,7 +33,8 @@ for n in N_K_bs:
 		for i in range(k,n+1):
 			N_K_bs[n][k][i-1]=N_K_b(n,k,i)
 	        	sum_b+=N_K_bs[n][k][i-1]
-		#print "A of (%d, %d) FJ is: %d" %(n,k,sum_b)
+		if sum_b !=1:
+			exit(1,"checksum of (%d, %d) FJ queue is %d, not the assumed 1" %(n,k,sum_b))
 #print N_K_bs
 #print N_K_as #coefficients of ("+n+","+k+") fork-join queues
 
