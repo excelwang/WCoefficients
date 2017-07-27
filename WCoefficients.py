@@ -2,7 +2,7 @@
 import os
 import sys
 import operator
-import csv
+#import csv
 
 topn=int(sys.argv[1])
 
