@@ -18,7 +18,7 @@ the largest n to be solved
 n,n-1,W<sub>1</sub><sup>n,n-1</sup>,W<sub>2</sub><sup>n,n-1</sup>,...,W<sub>n</sub><sup>n,n-1</sup>
 
 n,n,W<sub>1</sub><sup>n,n</sup>,W<sub>2</sub><sup>n,n</sup>,...,W<sub>n</sub><sup>n,n</sup>
-##
+##Document
 Citing the paper is better:
 https://arxiv.org/abs/1707.08860
 
