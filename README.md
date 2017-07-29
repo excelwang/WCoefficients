@@ -5,6 +5,8 @@ Solver of W Coefficients
 the largest n to be solved
 
 ## Output
+### n,k,W coefficients
+
 1,1,W<sub>1</sub><sup>1,1</sup>
 
 2,1,W<sub>1</sub><sup>2,1</sup>, W<sub>2</sub><sup>2,1</sup>
